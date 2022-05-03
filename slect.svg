@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.088189946"
-     inkscape:cx="323.16609"
+     inkscape:cx="334.50525"
      inkscape:cy="2942.5123"
      inkscape:window-width="1440"
      inkscape:window-height="836"
@@ -47,25 +47,28 @@
     <g
        id="g33801"
        transform="matrix(1.8294516,0,0,1.8294516,237.76122,38.536955)">
-      <rect
-         style="fill:#ff0052;fill-opacity:1;stroke-width:0.669586"
-         id="rect1030"
-         width="221.53961"
-         height="221.53954"
-         x="19.767611"
-         y="16.62536"
-         ry="0" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:88.7904px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21976"
-         x="33.356548"
-         y="161.17987"
-         id="text30275"><tspan
-           sodipodi:role="line"
-           id="tspan30273"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;stroke-width:2.21976"
+      <g
+         id="g22">
+        <rect
+           style="fill:#ff0052;fill-opacity:1;stroke-width:0.669586"
+           id="rect1030"
+           width="221.53961"
+           height="221.53954"
+           x="19.767611"
+           y="16.62536"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:88.7904px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21976"
            x="33.356548"
-           y="161.17987">Slect</tspan></text>
+           y="161.17987"
+           id="text30275"><tspan
+             sodipodi:role="line"
+             id="tspan30273"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#ffffff;stroke-width:2.21976"
+             x="33.356548"
+             y="161.17987">Slect</tspan></text>
+      </g>
     </g>
     <text
        xml:space="preserve"
